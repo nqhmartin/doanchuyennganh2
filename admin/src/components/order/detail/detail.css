@@ -1,0 +1,26 @@
+.detail {
+    width: 90%;
+}
+.detailHeader {
+    text-align: center;
+    font-size: 22px;
+    color: darkgreen;
+    font-weight: bold;
+}
+.box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.imgPro {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+}
+.item {
+    display: flex;
+    align-items: center;
+}
+.itemRight {
+    margin-left: 20px;
+}

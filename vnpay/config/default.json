@@ -1,0 +1,6 @@
+{
+  "vnp_TmnCode":"E6YKDE99",
+  "vnp_HashSecret":"UTHJLVUPDNDCXSIUCPLFTOMELKDPRLSO",
+  "vnp_Url":"https://sandbox.vnpayment.vn/paymentv2/vpcpay.html",
+  "vnp_ReturnUrl": "http://192.168.137.1:8888/order/vnpay_return"
+}

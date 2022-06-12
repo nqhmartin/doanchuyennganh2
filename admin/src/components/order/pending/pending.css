@@ -1,0 +1,9 @@
+.pendingTop {
+    display: flex;
+    justify-content: space-around;
+    width: 700px;
+}
+
+.btn {
+    margin-left: 5px;
+}

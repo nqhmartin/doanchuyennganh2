@@ -1,0 +1,14 @@
+.createProduct {
+    width: 80%;
+}
+.createProductText {
+    font-size: 18px;
+    color: white;
+}
+.proImg {
+    margin-left: 150px;
+    height: 250px;
+    width: 70%;
+    object-fit: contain;
+    border-radius: 10px;
+}
